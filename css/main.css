@@ -37,6 +37,7 @@ p {
 /***** HEADER *****/
 
 header {
+    border-bottom: 3px solid #77a466;
     height: 110px;
     margin: 0 auto;
 }
@@ -80,6 +81,10 @@ nav ul li {
 
 .main-image {
     height: auto;
+}
+
+.main-image img {
+    border-bottom: 3px solid #77a466;
 }
 
 .main-title {
